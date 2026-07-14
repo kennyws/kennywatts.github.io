@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<img src="{{ '/images/profile.png' | relative_url }}" alt="Kenneth Watts" style="max-width: 260px; border-radius: 6px; float: right; margin: 0 0 1em 1.5em;">
-
 I am Statistics PhD student at the University of Virginia interested in applied probability and dependence modeling.
 
 Research Interests
