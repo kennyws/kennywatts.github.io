@@ -13,15 +13,15 @@ count of excluded low-minute players on the court for each team as an additional
 than allowing excluded players’ contributions to be silently redistributed across the design matrix, this
 approach isolates their effect into 5 coefficients (representing 5 possible numbers of low-minute players
 in a single lineup), preventing it from contaminating the estimates of retained players. We find that this
-reallocation yields improved out-of-sample predictive performance than RAPM.
+reallocation yields improved out-of-sample predictive performance than a standard RAPM model.
 
-[Read the full paper (PDF) &rarr;](/files/cummy_rapm.pdf)
+[Full paper (PDF) &rarr;](/files/cummy_rapm.pdf)
 
 Kicking for Goal or Touch? An Expected Points Framework for Penalty Decisions in Rugby Union
 ======
-*Submitted to the Journal of Quantitative Analysis in Sports (JQAS), 2025*
+*Accepted by the Journal of Quantitative Analysis in Sports (JQAS), 2026*
 
-The first application of an Expected Points framework to rugby union. Using phase-level data from the 2018/19 Premiership Rugby season (35,199 phases across 132 matches) and an angle-distance model of penalty kick success, this paper builds decision maps showing when a team should kick for goal versus kick to touch after a penalty, conceptually similar to fourth-down decision models in the NFL.
+The first application of an Expected Points framework to rugby union. Our paper builds decision maps showing when a team should kick for goal versus kick to touch after a penalty, conceptually similar to fourth-down decision models in the NFL.
 
 [Read the paper on arXiv &rarr;](https://arxiv.org/abs/2512.00312)
 *edits have been made to the arxiv paper, mainly relating to non-linearities in expected points
