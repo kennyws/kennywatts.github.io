@@ -5,6 +5,16 @@ permalink: /research/
 author_profile: true
 ---
 
+Dummy RAPM
+======
+
+We introduce Dummy RAPM, an incremental improvement to RAPM which explicitly includes the
+count of excluded low-minute players on the court for each team as an additional regressor. Rather
+than allowing excluded players’ contributions to be silently redistributed across the design matrix, this
+approach isolates their effect into 5 coefficients (representing 5 possible numbers of low-minute players
+in a single lineup), preventing it from contaminating the estimates of retained players. We find that this
+reallocation yields improved out-of-sample predictive performance than RAPM.
+
 Kicking for Goal or Touch? An Expected Points Framework for Penalty Decisions in Rugby Union
 ======
 *Submitted to the Journal of Quantitative Analysis in Sports (JQAS), 2025*
@@ -13,22 +23,6 @@ The first application of an Expected Points framework to rugby union. Using phas
 
 [Read the paper on arXiv &rarr;](https://arxiv.org/abs/2512.00312)
 *edits have been made to the arxiv paper, mainly relating to non-linearities in expected points
-
----
-
-Injury Modeling for the Cleveland Browns
-======
-*Wharton Sports Analytics and Business Initiative, December 2025 &ndash; Present*
-
-Streamlining data feeds relating to player injuries to calculate and predict games missed due to injury, and building NFL player comparisons — in terms of injury profile — for pre-draft college football prospects. Selected as one of six undergraduate/graduate students from Wharton to complete this project.
-
----
-
-Win Probability in Rugby Union
-======
-*December 2025 &ndash; Present*
-
-Developing what would be the first published win probability models for rugby union using a first order Markov model.
 
 ---
 
