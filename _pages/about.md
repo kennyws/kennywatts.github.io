@@ -24,7 +24,13 @@ Contact
 
 Quotes
 ======
-“Reflect that nothing merits admiration except the spirit” - Seneca
-“Whereof one cannot speak, thereof one must be silent” - Wittgenstein
-“Learn what is to be taken seriously and laugh at the rest” - Herman Hesse
+
+> "Reflect that nothing merits admiration except the spirit."
+> — Seneca
+
+> "Whereof one cannot speak, thereof one must be silent."
+> — Wittgenstein
+
+> "Learn what is to be taken seriously and laugh at the rest."
+> — Hermann Hesse
 
