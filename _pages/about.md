@@ -1,19 +1,31 @@
 ---
 permalink: /
-title: "Hi, I'm Kenny."
+title: "About me"
+excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I'm a PhD student in Statistics at the University of Virginia, working on problems at the intersection of **applied probability** and **dependence modeling**. I'm particularly interested in copulas and how they can be used to model complex dependencies — whether in financial markets, sports outcomes, or rare high-impact events.
+<img src="/images/profile.jpg" alt="Kenneth Watts" style="max-width: 260px; border-radius: 6px; float: right; margin: 0 0 1em 1.5em;">
+<!-- TODO: replace /images/profile.jpg with your own headshot (drop the file into the /images/ folder and update this path/filename) -->
 
+I am an undergraduate researcher at the Wharton School, University of Pennsylvania, studying Economics with concentrations in Statistics and Quantitative Finance. My research focuses on applying statistical and machine learning methods to sports — including rugby union, soccer, and American football — to answer questions about strategy, player evaluation, and injury risk.
 
-**Research interests:** Finance & markets · Dependence · Extreme events · Win probability · Copulas
+I currently work on injury forecasting for the Cleveland Browns as part of the Wharton Sports Analytics and Business Initiative, and I am developing one of the first win probability models for rugby union. My paper on an Expected Points framework for penalty decisions in rugby union is currently under review at the *Journal of Quantitative Analysis in Sports (JQAS)*.
 
----
+You can find my full CV [here](/cv/) and a summary of my current research [here](/research/).
 
-### Recent updates
+Research Interests
+======
+* Sports analytics (rugby union, soccer, American football)
+* Bayesian statistics
+* Player evaluation and tracking data
+* Applied probability and prediction modeling
 
-- **2026** — Started my PhD in Statistics at UVA
+Contact
+======
+* Email: [kenwatts@wharton.upenn.edu](mailto:kenwatts@wharton.upenn.edu)
+* Phone: +1 (445) 310-0675
+* Location: Philadelphia, PA
