@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 <img src="{{ '/images/profile.jpg' | relative_url }}" alt="Kenneth Watts" style="max-width: 260px; border-radius: 6px; float: right; margin: 0 0 1em 1.5em;">
-<!-- TODO: replace /images/profile.jpg with your own headshot (drop the file into the /images/ folder, keep this filename or update it here) -->
 
 I am Statistics PhD student at the University of Virginia interested in applied probability and dependence modeling.
 
