@@ -17,7 +17,7 @@ approach isolates their effect into 5 coefficients (representing 5 possible numb
 in a single lineup), preventing it from contaminating the estimates of retained players. We find that this
 reallocation yields improved out-of-sample predictive performance than a standard RAPM model.
 
-[Full paper (PDF) &rarr;](/files/cummy_rapm.pdf)
+[Full paper (PDF) &rarr;](/files/dummy_rapm.pdf)
 
 Kicking for Goal or Touch? An Expected Points Framework for Penalty Decisions in Rugby Union
 ------
