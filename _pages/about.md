@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<img src="{{ '/images/quote.jpeg' | relative_url }}" alt="Kenny Watts" style="float: right; width: 250px; margin: 0 0 1em 1.5em; border-radius: 8px;">
+
 ---
 
 I'm a Statistics PhD student at the University of Virginia interested in applied probability and dependence modeling. I'm interested in Sports Analytics (RAPM, Win Probability, Variable Dependence), Financial Markets (Copulas, Tail Risk), and Prediction.
