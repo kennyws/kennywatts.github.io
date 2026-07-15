@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+---
+
 I'm a Statistics PhD student at the University of Virginia interested in applied probability and dependence modeling. I'm interested in Sports Analytics (RAPM, Win Probability, Variable Dependence), Financial Markets (Copulas, Tail Risk), and Prediction.
 
 Research Interests
