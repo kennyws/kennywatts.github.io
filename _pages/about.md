@@ -9,11 +9,12 @@ redirect_from:
 ---
 
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 250px;">
+  <div style="flex: 0 1 55%; min-width: 250px;">
     I'm a Statistics PhD student at the University of Virginia interested in applied probability and dependence modeling. I'm interested in Sports Analytics (RAPM, Win Probability, Variable Dependence), Financial Markets (Copulas, Tail Risk), and Prediction.
   </div>
-  <div style="flex: 0 0 auto; margin-left: auto;">
+  <div style="flex: 0 0 auto; margin-left: auto; display: flex; flex-direction: column; gap: 1em;">
     <img src="{{ '/images/quote.jpeg' | relative_url }}" alt="Kenny Watts" style="width: 450px; max-width: 100%; border-radius: 8px;">
+    <img src="{{ '/images/IMG_8985.jpeg' | relative_url }}" alt="Description" style="width: 450px; max-width: 100%; border-radius: 8px;">
   </div>
 </div>
 
