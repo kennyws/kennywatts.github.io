@@ -39,5 +39,4 @@ Contact
 > — Hermann Hesse
 
 <div style="clear: both;"></div>
-> — Hermann Hesse
 
