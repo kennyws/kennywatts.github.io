@@ -11,8 +11,6 @@ redirect_from:
 I'm a Statistics PhD student at the University of Virginia interested in applied probability and dependence modeling. I'm interested in Sports Analytics (RAPM, Win Probability, Variable Dependence), Financial Markets (Copulas, Tail Risk), and Prediction.
 
 <div style="float: right; width: 300px; margin: 0 0 1.5em 2em;">
-  <img src="{{ '/images/quote.jpeg' | relative_url }}"
-       style="width:100%; border-radius:8px; margin-bottom:1em;">
 
   <img src="{{ '/images/IMG_8985.jpeg' | relative_url }}"
        style="width:100%; border-radius:8px;">
