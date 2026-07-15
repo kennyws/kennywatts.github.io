@@ -5,6 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
+---
 
 NBA Copulas
 ------
