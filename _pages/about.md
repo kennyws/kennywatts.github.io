@@ -20,6 +20,7 @@ Research Interests
 ------
 * Applied Probability
 * Copulas
+* Markov Models
 * Bayesian methods
 
 Contact
