@@ -34,3 +34,5 @@ A Dynamic Rating System for NFL Pass Rushers and Blockers
 *June 2025 &ndash; August 2025*
 
 A framework for rating NFL offensive and defensive linemen using player tracking data and individual play interactions, combining Multinomial ELO and Ridge Regression approaches. Presented as a poster at the New England Symposium on Statistics in Sports (NESSIS) at Harvard University and at the Wharton Sports Business Summit.
+
+[Full paper (PDF) &rarr;]({{ '/files/NFL_Elo.pdf' | relative_url }})
