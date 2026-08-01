@@ -7,6 +7,11 @@ author_profile: true
 
 ---
 
+Kelly Shrinkage
+------
+*Ongoing Personal Project*
+Project related to Kelly shrinkage under uncertainty.
+
 NBA Copulas
 ------
 *Ongoing Personal Project*
