@@ -17,7 +17,7 @@ approach isolates their effect into 5 coefficients (representing 5 possible numb
 in a single lineup), preventing it from contaminating the estimates of retained players. We find that this
 reallocation yields improved out-of-sample predictive performance than a standard RAPM model.
 
-[Full paper (PDF) &rarr;]({{ '/files/dummy_rapm-2.pdf' | relative_url }})
+[Read the paper on arXiv &rarr;](https://arxiv.org/abs/2608.19454)
 
 Kicking for Goal or Touch? An Expected Points Framework for Penalty Decisions in Rugby Union
 ------
@@ -35,4 +35,4 @@ A Dynamic Rating System for NFL Pass Rushers and Blockers
 
 A framework for rating NFL offensive and defensive linemen using player tracking data and individual play interactions, combining Multinomial ELO and Ridge Regression approaches. Presented as a poster at the New England Symposium on Statistics in Sports (NESSIS) at Harvard University and at the Wharton Sports Business Summit.
 
-[Full paper (PDF) &rarr;]({{ '/files/NFL_Elo.pdf' | relative_url }})
+[Read the paper on arXiv &rarr;](https://arxiv.org/abs/2604.01491)
