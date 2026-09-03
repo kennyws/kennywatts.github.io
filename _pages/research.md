@@ -5,6 +5,19 @@ permalink: /research/
 author_profile: true
 ---
 
+## Publications
+---
+
+Kicking for Goal or Touch? An Expected Points Framework for Penalty Decisions in Rugby Union
+------
+*Published in the Journal of Quantitative Analysis in Sports (JQAS), 2026*
+
+The first application of an Expected Points framework to rugby union. Our paper builds decision maps showing when a team should kick for goal versus kick to touch after a penalty, conceptually similar to fourth-down decision models in the NFL.
+
+[Read the paper here &rarr;](https://www.degruyterbrill.com/document/doi/10.1515/jqas-2025-0183/html)
+
+
+## Papers
 ---
 
 Dummy RAPM
@@ -18,15 +31,6 @@ in a single lineup), preventing it from contaminating the estimates of retained 
 reallocation yields improved out-of-sample predictive performance than a standard RAPM model.
 
 [Read the paper on arXiv &rarr;](https://arxiv.org/abs/2608.19454)
-
-Kicking for Goal or Touch? An Expected Points Framework for Penalty Decisions in Rugby Union
-------
-*Accepted by the Journal of Quantitative Analysis in Sports (JQAS), 2026*
-
-The first application of an Expected Points framework to rugby union. Our paper builds decision maps showing when a team should kick for goal versus kick to touch after a penalty, conceptually similar to fourth-down decision models in the NFL.
-
-[Read the paper on arXiv &rarr;](https://arxiv.org/abs/2512.00312)
-*edits have been made to the arxiv paper, mainly relating to non-linearities in expected points
 
 
 A Dynamic Rating System for NFL Pass Rushers and Blockers
